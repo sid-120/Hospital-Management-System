@@ -15,9 +15,10 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-**------------------------------------------------------------------------------------------------------------------------------**
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 **Date: 18-06-2026**
+
 **Stage 1: Beginning of the project**
 
 *Plan:* When you click on the button, it should show a card containing the patient's information
@@ -51,5 +52,5 @@ then restarted the server in the terminal. It worked.
 
 *Output:*
 
-![output](assets\Output1.png)
+![output](assets/Output1.png)
 img. Output1
