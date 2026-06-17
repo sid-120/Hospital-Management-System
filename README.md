@@ -52,7 +52,8 @@ then restarted the server in the terminal. It worked.
 
 *Output:*
 
-<img width="500" height="500" alt="Output1" src="https://github.com/user-attachments/assets/fd13827e-9c2a-4f72-ba00-0b91552c690d" />
+![output](src/assets/Output1.png)
+<!-- <img width="500" height="500" alt="Output1" src="https://github.com/user-attachments/assets/fd13827e-9c2a-4f72-ba00-0b91552c690d" /> -->
 
 
 img. Output1
