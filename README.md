@@ -52,6 +52,7 @@ then restarted the server in the terminal. It worked.
 
 *Output:*
 
-![output](assets/Output1.png)
+![output](assets/Output1.png)<img width="1158" height="858" alt="Output1" src="https://github.com/user-attachments/assets/fd13827e-9c2a-4f72-ba00-0b91552c690d" />
+
 
 img. Output1
