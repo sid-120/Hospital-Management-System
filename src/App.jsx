@@ -23,7 +23,10 @@ function App() {
 
   return (
     <>
+    <div className='addBtn'>
       <Button title={"Create Card ⊕" } func={createCard}/>
+    </div>
+      
       <div style={{display:'flex', gap:'10px',flexWrap:'wrap', marginTop:'10px' }}>
         {cards.map((card)=>(<Card
         key={card.key}

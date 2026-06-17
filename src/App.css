@@ -184,13 +184,17 @@
 }
 
 button{
-  padding:30px;
+  padding:10px;
   text-align: center;
   background-color: darkseagreen;
   color:rgb(32, 31, 31);
-  border-radius: 50%;
+  border-radius: 10%;
   width:150px;
   height:50px;
+}
+.addBtn{
+  width:auto;
+  height:auto;
 }
 
 .card-container{
