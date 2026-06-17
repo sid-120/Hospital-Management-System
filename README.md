@@ -53,4 +53,5 @@ then restarted the server in the terminal. It worked.
 *Output:*
 
 ![output](assets/Output1.png)
+
 img. Output1
