@@ -15,9 +15,9 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+***---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------***
 
-**Date: 18-06-2026**
+**Date: 18/06/2026**
 
 **Stage 1: Beginning of the project**
 
@@ -56,3 +56,9 @@ then restarted the server in the terminal. It worked.
 
 
 img. Output1
+
+--
+
+**Date: 20/06/2026 - 21/06/2026**
++ I learned about the state in React
++ I thought about how I would use the useState hook in this project.
