@@ -57,7 +57,7 @@ then restarted the server in the terminal. It worked.
 
 img. Output1
 
---
+---
 
 **Date: 20/06/2026 - 21/06/2026**
 + I learned about the state in React
